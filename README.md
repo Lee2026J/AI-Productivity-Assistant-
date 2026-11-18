@@ -8,8 +8,8 @@ An AI-powered workplace productivity assistant that helps professionals work fas
 
 ## Features
 
-### 1. Email Generator
-Drafts professional emails from a short prompt. Choose the tone - Formal, Friendly, or Apologetic - and edit the output before copying.
+### 1. Smart Email Generator
+Draft clear, on-tone emails from a few bullet points. Choose Formal, Friendly, or Apologetic tone, then edit and copy.
 
 ### 2. Meeting Summarizer
 Paste meeting notes and get a clear summary with key decisions, action items, and owners.
