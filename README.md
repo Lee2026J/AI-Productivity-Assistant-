@@ -1,43 +1,42 @@
 # AI Workplace Productivity Assistant
 
+## Live Demo
+👉 https://workday-thought-compass.lovable.app
+
 ## Project Overview
-An integrated AI-powered web app that helps professionals automate workplace tasks in one dashboard: emails, meeting summaries, task planning, research, and chatbot assistance.
+An AI-powered workplace productivity assistant that helps professionals work faster and smarter. It brings together 5 essential workplace tools in one clean dashboard.
 
-## Problem Solved
-Professionals waste hours drafting emails, summarizing meetings, and planning days. This app saves time and improves consistency.
+## Features
 
-## Features Implemented
-1. Smart Email Generator - Formal / Friendly / Persuasive tones
-2. Meeting Notes Summarizer - Summary, Decisions, Action Items, Deadlines
-3. AI Task Planner / Scheduler - Prioritised daily schedule with time-blocking
-4. AI Research Assistant - Summary, Insights, Recommendations
-5. AI Chatbot Interface - Interactive workplace assistant
+### 1. Email Generator
+Drafts professional emails from a short prompt. Choose the tone - Formal, Friendly, or Apologetic - and edit the output before copying.
 
-## Technologies & Tools
-- Lovable AI (React + Vite + Tailwind + shadcn)
-- GitHub for version control
-- ChatGPT for prompt engineering / testing
-- JavaScript for client-side AI simulation
+### 2. Meeting Summarizer
+Paste meeting notes and get a clear summary with key decisions, action items, and owners.
 
-## Prompt Engineering Used
-Each feature uses structured prompts: Role + Task + Context + Tone + Format + Constraints.
-Example Email Prompt: "You are a professional email assistant. Write a [Tone] email about [Purpose] using [Key Points]. Keep it concise, polite, with subject line and clear call-to-action."
+### 3. Task Planner
+Break a big goal into small prioritized tasks with deadlines.
 
-## Responsible AI
-- Disclaimer on every page
-- Outputs are editable and must be reviewed before sending
-- No confidential data stored, no personal data collected
-- Bias check: prompts ask for neutral, inclusive language
+### 4. Research Assistant
+Summarizes research topics into key points and sources.
 
-## Setup Instructions
-1. Clone repo: `git clone https://github.com/Lee2026J/AI-Productivity-Assistant`
-2. Open Lovable project link: Coming soon - link will be added after publishing in Lovable
-3. Or open `index.html` / run `npm run dev` if exported
-4. Use dashboard to test each tool
+### 5. AI Chatbot
+Ask workplace questions and get instant, helpful answers.
 
-## Team Members
-- Anthea Jordaan
+## How It Works
+1. Open the Live Demo link above
+2. Choose a tool from the dashboard
+3. Enter your input / prompt
+4. Click Generate
+5. Edit, copy, or download the result
 
-## Demo
-Lovable App: Coming soon - link will be added after publishing in Lovable
-Screenshots: To be added
+## Tech Stack
+- Lovable / React / TypeScript
+- Tailwind CSS
+- Responsive design - works on phone and desktop
+
+## Responsible AI Note
+AI outputs may contain errors. Always review and edit before sending or sharing. Do not paste confidential or personal company data.
+
+## Author
+Lee
